@@ -267,7 +267,7 @@ ul {
 
 /* line 182, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
 .area-padding {
-  padding: 130px 0px;
+  padding: 30px 0px;
 }
 
 /* line 185, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
@@ -1981,7 +1981,7 @@ ul {
 @media (max-width: 576px) {
   /* line 2, E:/161 Real estate/161_Real_state_html/sass/_review.scss */
   .review_part {
-    margin-top: 145px;
+    margin-top: -100px;
     padding: 70px 0px;
   }
 }
